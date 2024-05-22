@@ -1,4 +1,4 @@
-import icon from "../src/assets/icon.png";
+import icon from "./assets/jose-profile.jpeg";
 
 interface IConfig {
   me: {
