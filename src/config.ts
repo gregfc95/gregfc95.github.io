@@ -25,16 +25,16 @@ interface IConfig {
 
 export const Config: IConfig = {
   me: {
-    name: "John Doe",
-    job: "backend engineer",
-    started: "1970-01-01",
-    stack: "Scratch",
-    hobby: "gamble my life savings",
+    name: "Jose Gregorio Fernandez Campos",
+    job: "Quality Assurance Engineer",
+    started: "2020-01-05",
+    stack: "QA automations using PlayWright",
+    hobby: "play videogames",
     projectLink: "https://github.com/JohnDoe?tab=repositories",
   },
   socials: {
-    twitter: "https://twitter.com/JohnDoe",
-    github: "https://github.com/JohnDoe",
+    linkedin: "https://www.linkedin.com/in/gjfc/",
+    github: "https://github.com/gregfc95",
   },
   projects: {
     "996.ICU": {
